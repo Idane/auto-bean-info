@@ -56,16 +56,7 @@
         <repository>
           <id>github</id>
           <name>GitHub Maven Packages</name>
-          <url>https://maven.pkg.github.com/SimoneGianni/auto-bean-info</url>
-        </repository>
-      </distributionManagement>
-    </profile>
-    <profile>
-      <id>s3</id>
-      <distributionManagement>
-        <repository>
-          <id>repo.s3</id>
-          <url>s3://simonegianni-maven-repo/release</url>
+          <url>https://maven.pkg.github.com/idane/auto-bean-info</url>
         </repository>
       </distributionManagement>
     </profile>
